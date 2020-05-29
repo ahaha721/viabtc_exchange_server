@@ -37,7 +37,7 @@
     },
     "assets": [
         {
-            "name": "BCH",
+            "name": "USDT",
             "prec_save": 20,
             "prec_show": 8
         }, {
@@ -72,79 +72,79 @@
     ],
     "markets": [
         {
-            "name": "BTCBCH",
+            "name": "BTCUSDT",
             "stock": {
                 "name": "BTC",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "LTCBCH",
+            "name": "LTCUSDT",
             "stock": {
                 "name": "LTC",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "ETHBCH",
+            "name": "ETHUSDT",
             "stock": {
                 "name": "ETH",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "ETCBCH",
+            "name": "ETCUSDT",
             "stock": {
                 "name": "ETC",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "ZECBCH",
+            "name": "ZECUSDT",
             "stock": {
                 "name": "ZEC",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "XMRBCH",
+            "name": "XMRUSDT",
             "stock": {
                 "name": "XMR",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
         }, {
-            "name": "DSHBCH",
+            "name": "DSHUSDT",
             "stock": {
                 "name": "DSH",
                 "prec": 8
             },
             "money": {
-                "name": "BCH",
+                "name": "USDT",
                 "prec": 8
             },
             "min_amount": "0.001"
